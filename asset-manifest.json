@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "./static/css/main.e8065ec2.css",
+    "main.js": "./static/js/main.92506666.js",
+    "static/media/main_bg02.svg": "./static/media/main_bg02.82739c7f53d3ca729bee0f47db82a1df.svg",
+    "static/media/main_bg.svg": "./static/media/main_bg.73533b07336b8b0dc0e31b60d03f1a44.svg",
+    "static/media/Youtube.svg": "./static/media/Youtube.997c0ddd1fc7a57035ca00ac12511a23.svg",
+    "static/media/KoreaLogo.svg": "./static/media/KoreaLogo.f5a95ea2fd71e45a9c5200b4b098430d.svg",
+    "static/media/MicrosoftLogo.svg": "./static/media/MicrosoftLogo.2e9b82862f8a6626feec0e81d70cd912.svg",
+    "static/media/SamsungLogo.svg": "./static/media/SamsungLogo.d3c90e53efd85d0fa5ab61341876bd20.svg",
+    "static/media/EmartLogo.svg": "./static/media/EmartLogo.55c8508fe861f38e1f7162350b57d4ab.svg",
+    "static/media/LgLogo.svg": "./static/media/LgLogo.89ba7af0f901df1bc64aeb5d5a948fd4.svg",
+    "static/media/GoogleLogo.svg": "./static/media/GoogleLogo.64742f6405be8486218c501395b08ccb.svg",
+    "static/media/NaverLogo.svg": "./static/media/NaverLogo.2657db7dc4b798483542f400c8fef919.svg",
+    "static/media/KakaoLogo.svg": "./static/media/KakaoLogo.788e394df962c725518b67fc876d06a2.svg",
+    "index.html": "./index.html",
+    "main.e8065ec2.css.map": "./static/css/main.e8065ec2.css.map",
+    "main.92506666.js.map": "./static/js/main.92506666.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8065ec2.css",
+    "static/js/main.92506666.js"
+  ]
+}
